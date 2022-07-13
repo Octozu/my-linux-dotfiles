@@ -1,0 +1,6 @@
+[commit]
+	gpgsign = true
+[user]
+	name = Octozu
+	email = 78366921+Octozu@users.noreply.github.com
+	signingkey = 78366921+Octozu@users.noreply.github.com
